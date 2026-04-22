@@ -1,6 +1,6 @@
 # inference-framework-scorecards
 
-This repository contains code examples for credit scorecard creation supporting our research on inferential capability in data-driven models, accompanying the paper "When Do Data-Driven Systems Exhibit the Capability to Infer?"
+This repository contains code examples for credit scorecard creation supporting our research on inferential capability in data-driven models, accompanying the paper "When Do Data-Driven Systems Exhibit the Capability to Infer?".
 
 ## Overview
 
