@@ -35,6 +35,7 @@ jupyter notebook notebooks/scorecard_example2_manual.ipynb
 ├── README.md
 ├── requirements.txt
 ├── feature_monotonicity_table.pdf
+├── scorecards.pdf
 ├── notebooks/
 │   ├── scorecard_example1_automated.ipynb
 │   └── scorecard_example2_manual.ipynb
